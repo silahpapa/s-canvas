@@ -1,6 +1,6 @@
 {
   "name": "s-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy wasy to used a canvas",
   "main": "index.vue",
   "scripts": {
